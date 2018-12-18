@@ -10,16 +10,16 @@
                         <router-link class="nav-link px-4 py-3" to="/introduction">Introduction</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4 py-3" href="#">Used Languages</a>
+                        <router-link class="nav-link px-4 py-3" to="/language">Used Languages</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4 py-3" href="#">Intern Experience</a>
+                        <router-link class="nav-link px-4 py-3" to="/intern">Intern Experience</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4 py-3" href="#">Portforio</a>
+                        <router-link class="nav-link px-4 py-3" to="/portfolio">Portfolio</router-link>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link px-4 py-3" href="#">SNS</a>
+                        <router-link class="nav-link px-4 py-3" to="/sns">SNS</router-link>
                     </li>
                 </ul>
             </div>

@@ -1,9 +1,15 @@
 import Vue from 'vue'
-import BootstrapVue from 'bootstrap-vue'
 import Router from 'vue-router'
 
-import page1 from '@/components/page1'
+import home from '@/components/home'
 import introduction from '@/components/introduction'
+import language from '@/components/language'
+import intern from '@/components/intern'
+import portfolio from '@/components/portfolio'
+import sns from '@/components/sns'
+
+// import Bootstrap
+import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
@@ -14,11 +20,27 @@ export default new Router({
   routes: [
     {
       path: '/',
-      component: page1
+      component: home
     },
     {
       path: '/introduction',
       component: introduction
+    },
+    {
+      path: '/language',
+      component: language
+    },
+    {
+      path: '/intern',
+      component: intern
+    },
+    {
+      path: '/portfolio',
+      component: portfolio
+    },
+    {
+      path: '/sns',
+      component: sns
     }
   ]
 })
