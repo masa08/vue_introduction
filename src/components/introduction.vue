@@ -1,9 +1,44 @@
 <template>
   <div>
-    <p>
-      ここはページ２です。
-    </p>
-    <router-link class="btn btn-danger" to="/">Go to home</router-link>
+    <div class="container mt-5 px-5">
+      <h1>INTRODUCTION</h1>
+      <div class="row">
+        <table class="table col-10 mt-4 mx-auto">
+          <thead>
+            <tr>
+              <th style="background-color:rgba(65,184,131,0.5); color:white;">KEY</th>
+              <th style="background-color:rgba(65,184,131,0.5); color:white;">VALUE</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Name</td>
+              <td>masa08</td>
+            </tr>
+            <tr>
+              <td>University</td>
+              <td>早稲田大学法学部</td>
+            </tr>
+            <tr>
+              <td>Age</td>
+              <td>23</td>
+            </tr>
+            <tr>
+              <td>Qiita</td>
+              <td><a href="https://qiita.com/masa08">masa08</a></td>
+            </tr>
+            <tr>
+              <td>Github</td>
+              <td><a href="https://github.com/masa08">masa08</a></td>
+            </tr>
+            <tr>
+              <td>Twitter</td>
+              <td><a href="https://twitter.com/ushimasa08">ushimasa08</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -11,4 +46,11 @@
 </script>
 
 <style>
+tr td a {
+  color: rgba(65,184,131);
+}
+
+tr td a:hover {
+  color: rgba(244,172,23);
+}
 </style>
