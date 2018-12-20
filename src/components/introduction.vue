@@ -2,6 +2,7 @@
   <div>
     <div class="container mt-5 px-5">
       <h1>INTRODUCTION</h1>
+      <img src="../assets/ushimaru.jpg" alt="" class="my-3" style="width:200px; border-radius:50%;">
       <div class="row">
         <table class="table col-10 mt-4 mx-auto">
           <thead>
@@ -52,5 +53,6 @@ tr td a {
 
 tr td a:hover {
   color: rgba(244,172,23);
+  text-decoration: none;
 }
 </style>

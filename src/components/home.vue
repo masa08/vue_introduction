@@ -17,4 +17,10 @@
   font-size: 70px;
   padding-top: 250px;
 }
+@media screen and (max-width:800px){
+  .main-image-title {
+  font-size: 50px;
+  padding-top: 150px;
+  }
+}
 </style>

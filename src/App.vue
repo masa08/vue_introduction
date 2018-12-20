@@ -2,18 +2,15 @@
   <div id="app">
     <myheader></myheader>
     <router-view/>
-    <footer></footer>
   </div>
 </template>
 
 <script>
 import myheader from './components/myheader'
-import footer from './components/footer'
 
 export default {
   components: {
     myheader,
-    footer,
   },
 }
 </script>

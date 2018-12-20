@@ -6,7 +6,7 @@ import introduction from '@/components/introduction'
 import language from '@/components/language'
 import intern from '@/components/intern'
 import portfolio from '@/components/portfolio'
-import sns from '@/components/sns'
+import contact from '@/components/contact'
 
 // import Bootstrap
 import BootstrapVue from 'bootstrap-vue'
@@ -39,8 +39,8 @@ export default new Router({
       component: portfolio
     },
     {
-      path: '/sns',
-      component: sns
+      path: '/contact',
+      component: contact
     }
   ]
 })
