@@ -4,7 +4,7 @@
       <h1>INTRODUCTION</h1>
       <img src="../assets/ushimaru.jpg" alt="" class="my-3" style="width:200px; border-radius:50%;">
       <div class="row">
-        <table class="table col-10 mt-4 mx-auto">
+        <table class="table col-lg-10 mt-4 mx-auto">
           <thead>
             <tr>
               <th style="background-color:rgba(65,184,131,0.5); color:white;">KEY</th>

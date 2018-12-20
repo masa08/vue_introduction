@@ -2,7 +2,7 @@
     <div>
         <div class="container mt-5 px-5">
             <h1>PORTFOLIO</h1>
-            <div class="list col-10 mt-4 mx-auto">
+            <div class="list col-lg-10 mt-4 mx-auto">
                 <h2 class="mb-3 pb-3">過去作品</h2>
                 <h3>Portfolioサイト</h3>
                 <p class="text-left" style="color:gray;">

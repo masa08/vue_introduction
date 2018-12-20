@@ -25,7 +25,7 @@
                 </ul>
             </div>
             <!-- sp -->
-            <ul class="sp">
+            <ul class="sp px-5">
                 <li>
                     <router-link class="ancar text-white" to="/">Home</router-link>
                 </li>
@@ -72,7 +72,6 @@ nav {
     }
     ul {
         overflow: hidden;
-        padding: 0;
     }
     ul li {
         float: left;
@@ -80,7 +79,7 @@ nav {
     }
     .ancar {
         display: block;
-        padding: 5px;
+        padding: 5px 10px;
     }
 }
 </style>
