@@ -4,7 +4,7 @@
             <h1>LANGUAGES</h1>
             <div class="row mt-4">
                 <!-- HTML & CSS -->
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
                 <div class="card col-lg-5 float-left p-0 my-4">
                     <div class="html"></div>
                     <div class="card-body">
@@ -26,10 +26,10 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
 
                 <!-- Ruby & PHP -->
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
                 <div class="card col-lg-5 float-left p-0 my-4">
                     <div class="ruby"></div>
                     <div class="card-body">
@@ -52,10 +52,10 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
 
                 <!-- Pytnon & JS -->
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
                 <div class="card col-lg-5 float-left p-0 my-4">
                     <div class="python"></div>
                     <div class="card-body">
@@ -78,7 +78,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-lg-1 float-left p-0 my-4"></div>
+                <div class="col-lg-1 float-left p-0 my-4 sp-block"></div>
             </div>
         </div>
     </div>
@@ -121,4 +121,11 @@ h4 {
     background-color: rgb(241,223,90);
     height: 50px;
 }
+
+@media screen and (max-width:800px){
+    .sp-block {
+        display: none;
+    }
+}
+
 </style>

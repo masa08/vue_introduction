@@ -26,7 +26,7 @@
                     ・インターン先で、新たにローンチするサイトのコンバージョン最適化に取り組んでいました。<br>
                     ・インターン先で、住宅ローンや英語学習に関する記事作成に取り組んでいました。<br>
                 </p>
-                <a href="https://www.wantedly.com/users/18209394?ql=gaJpZM4AWPzo" class="btn text-white mt-4" style="background-color:rgba(65,184,131);">詳しくはWantedlyへ</a>
+                <a href="https://www.wantedly.com/users/18209394?ql=gaJpZM4AWPzo" class="btn text-white mt-4 wanted">詳しくはWantedlyへ</a>
             </div>
         </div>
     </div>
@@ -38,6 +38,10 @@
 <style>
 .main-intern {
     color: rgba(65,184,131);
+}
+
+.wanted {
+    background-color:rgba(65,184,131);
 }
 
 h2 {

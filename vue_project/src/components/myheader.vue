@@ -79,7 +79,7 @@ nav {
     }
     .ancar {
         display: block;
-        padding: 5px 10px;
+        padding: 4px 4px;
     }
 }
 </style>
