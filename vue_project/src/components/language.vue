@@ -9,9 +9,9 @@
                     <div class="html"></div>
                     <div class="card-body">
                         <h4 class="card-title">HTML</h4>
-                        <p style="color:gray;">経験年数: 1.5年</p>
+                        <p style="color:gray;">経験年数: 2年</p>
                         <p class="card-text text-left">
-                        個人開発、エンジニアインターン問わず、多くのサイトをコーディングした経験があるため、ある程度のコーディングなら可能です。
+                        個人開発、エンジニアインターン問わず、多くのサイトをコーディングした経験があります。
                         </p>
                     </div>
                 </div>
@@ -19,10 +19,10 @@
                     <div class="css"></div>
                     <div class="card-body">
                         <h4 class="card-title">CSS</h4>
-                        <p style="color:gray;">経験年数: 1.5年</p>
+                        <p style="color:gray;">経験年数: 2年</p>
                         <p style="color:gray;">FW: Bootstrap4</p>
                         <p class="card-text text-left">
-                        個人開発、エンジニアインターン問わず、多くのサイトをコーディングした経験があるため、ある程度のコーディングなら可能です。Bootstrapに関しては、このサイトでも使用しています。
+                        個人開発、エンジニアインターン問わず、多くのサイトをコーディングした経験があります。Bootstrapに関しては、このサイトでも使用しています。
                         </p>
                     </div>
                 </div>
@@ -34,10 +34,10 @@
                     <div class="ruby"></div>
                     <div class="card-body">
                         <h4 class="card-title">Ruby</h4>
-                        <p style="color:gray;">経験年数: 1年</p>
-                        <p style="color:gray;">FW: Ruby on Rails</p>
+                        <p style="color:gray;">経験年数: 1.5年</p>
+                        <p style="color:gray;">FW: RubyOnRails/Sinatra</p>
                         <p class="card-text text-left">
-                        一年間ほど、国内と国外(フィリピン)のプログラミングスクールで、日本人の初心者向けにRoRを教えていたので、基本的な項目については理解できています。
+                        一年間ほど、国内と国外(フィリピン)のプログラミングスクールで、日本人の初心者向けにRoRを教えていたので、基本的な項目については理解できています。また現在日本のスタートアップにて、Rails/Sinatraを用いた開発を行っています。
                         </p>
                     </div>
                 </div>
@@ -45,10 +45,10 @@
                     <div class="php"></div>
                     <div class="card-body">
                         <h4 class="card-title">PHP</h4>
-                        <p style="color:gray;">経験年数: 0.5年</p>
-                        <p style="color:gray;">FW: Laravel</p>
+                        <p style="color:gray;">経験年数: 1年</p>
+                        <p style="color:gray;">FW: Laravel/Wordpress</p>
                         <p class="card-text text-left">
-                        フィリピンのスタートアップでインターンをしていた際に使用していました。基本的な内容は理解できています。
+                        フィリピンのスタートアップでインターンをしていた際に使用していました。基本的な内容は理解できています。また、Wordpressを用いたサイト作成の経験もあり、実際にサイトをリリースしています。
                         </p>
                     </div>
                 </div>
@@ -63,18 +63,18 @@
                         <p style="color:gray;">経験年数: 初心者</p>
                         <p style="color:gray;">FW: Django</p>
                         <p class="card-text text-left">
-                        現在のインターン先で用いている言語で、最近メインで書いています。主にWebサービス開発のために使用していますが、Pythonを用いたスクレイピング等にも興味があるため、今後手を出していきたいなと考えています。
+                        過去のインターン先で書いた経験があります。主にWebサービス開発のために、Django使用していました。
                         </p>
                     </div>
                 </div>
                 <div class="card col-lg-5 float-left p-0 my-4">
                     <div class="js"></div>
                     <div class="card-body">
-                        <h4 class="card-title">Javascript</h4>
-                        <p style="color:gray;">経験年数: 初心者</p>
-                        <p style="color:gray;">FW: Vue.js</p>
+                        <h4 class="card-title">Javascript(ES6)</h4>
+                        <p style="color:gray;">経験年数: 0.5年</p>
+                        <p style="color:gray;">FW: React/Vue</p>
                         <p class="card-text text-left">
-                        最近、Udemyや公式リファレンスを見て学び始めました。このサイトもVue.jsで作られています。
+                        現在勤務しているインターン先でReactを用いた開発を行っています。また、このサイトはVueを用いて開発されています。
                         </p>
                     </div>
                 </div>

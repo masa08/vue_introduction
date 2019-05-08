@@ -18,7 +18,7 @@
             </tr>
             <tr>
               <td>University</td>
-              <td>早稲田大学法学部</td>
+              <td>早稲田大学</td>
             </tr>
             <tr>
               <td>Age</td>
@@ -35,6 +35,10 @@
             <tr>
               <td>Twitter</td>
               <td><a href="https://twitter.com/ushimasa08">ushimasa08</a></td>
+            </tr>
+            <tr>
+              <td>AtCoder</td>
+              <td>masa08</td>
             </tr>
           </tbody>
         </table>
