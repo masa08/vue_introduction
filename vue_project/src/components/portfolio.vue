@@ -31,7 +31,6 @@
                 <a href="https://github.com/masa08/Wilcsite" class="btn mt-2 mb-5">Githubへ</a>
             </div>
         </div>
-        </div>
     </div>
 </template>
 
