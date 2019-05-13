@@ -10,6 +10,7 @@
                     <div class="card-body">
                         <h4 class="card-title">HTML</h4>
                         <p style="color:gray;">経験年数: 2年</p>
+                        <p style="color:gray;">FW: Haml</p>
                         <p class="card-text text-left">
                         個人開発、エンジニアインターン問わず、多くのサイトをコーディングした経験があります。
                         </p>

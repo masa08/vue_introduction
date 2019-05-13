@@ -18,7 +18,7 @@
             </tr>
             <tr>
               <td>University</td>
-              <td>早稲田大学</td>
+              <td>早稲田大学法学部</td>
             </tr>
             <tr>
               <td>Age</td>
