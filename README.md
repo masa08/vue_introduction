@@ -8,3 +8,7 @@ $ cd vue_introduction
 $ cd vue_project
 $ npm run dev
 ```
+## 本番環境への反映
+```
+$ npm run build
+```
