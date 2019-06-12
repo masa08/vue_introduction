@@ -1,6 +1,10 @@
 # Vue.jsを用いた自己紹介サイト
 ## 概要
 Vue.jsを用いた自己紹介をするためのサイト。
+
+## URL
+https://masa08.github.io/vue_introduction/
+
 ## build
 ```
 $ git clone https://github.com/masa08/vue_introduction.git
