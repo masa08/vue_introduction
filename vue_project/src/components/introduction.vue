@@ -2,13 +2,26 @@
   <div>
     <div class="container mt-5 px-5">
       <h1>INTRODUCTION</h1>
-      <img src="../assets/ushimaru.jpg" alt="" class="my-3" style="width:200px; border-radius:50%;">
+      <img
+        src="../assets/ushimaru.jpg"
+        alt=""
+        class="my-3"
+        style="width: 200px; border-radius: 50%"
+      />
       <div class="row">
         <table class="table col-lg-10 mt-4 mx-auto">
           <thead>
             <tr>
-              <th style="background-color:rgba(65,184,131,0.5); color:white;">KEY</th>
-              <th style="background-color:rgba(65,184,131,0.5); color:white;">VALUE</th>
+              <th
+                style="background-color: rgba(65, 184, 131, 0.5); color: white"
+              >
+                KEY
+              </th>
+              <th
+                style="background-color: rgba(65, 184, 131, 0.5); color: white"
+              >
+                VALUE
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -47,16 +60,15 @@
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
 <style>
 tr td a {
-  color: rgba(65,184,131);
+  color: rgba(65, 184, 131);
 }
 
 tr td a:hover {
-  color: rgba(244,172,23);
+  color: rgba(244, 172, 23);
   text-decoration: none;
 }
 </style>
